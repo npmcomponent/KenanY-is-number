@@ -1,0 +1,14 @@
+{
+  "name": "is-number",
+  "repo": "KenanY/is-number",
+  "description": "Is number component",
+  "version": "0.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "twitter": "@kyild"
+}
