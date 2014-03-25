@@ -13,7 +13,7 @@ $ component install KenanY/is-number
 ## API
 
 ``` javascript
-var isFinite = require('is-number');
+var isNumber = require('is-number');
 ```
 
 ### isNumber(value)
