@@ -1,44 +1,8 @@
 {
-  "name": "is-number",
-  "version": "1.0.0",
+  "name": "kenany-is-number",
   "description": "Is number component",
-  "repository": "KenanY/is-number",
-  "license": "MIT",
-  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
-  "main": "index.js",
-  "files": [
-    "index.js",
-    "LICENSE.txt"
-  ],
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "tape test/index.js",
-    "build": "component build --dev",
-    "components": "component install --dev",
-    "clean": "rm -fr build components"
-  },
-  "devDependencies": {
-    "lodash.map": "^2.4.1",
-    "tape": "^2.12.0"
-  },
-  "component": {
-    "scripts": {
-      "is-number/index.js": "index.js"
-    }
-  },
-  "private": true,
-  "testling": {
-    "files": "test/index.js",
-    "browsers": [
-      "ie/6..latest",
-      "chrome/4..latest",
-      "firefox/3..latest",
-      "safari/5.1..latest",
-      "opera/11.0..latest",
-      "iphone/6",
-      "ipad/6"
-    ]
-  }
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
 }
